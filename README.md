@@ -1,3 +1,5 @@
+// Try to update and fill Readme with the basic description of the project and how to run it, it's a good practice.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
